@@ -1,0 +1,23 @@
+.sbox1{
+    width: 100px;
+    height: 100px;
+    background-color:red ;
+}
+
+.sbox2{
+    width: 100px;
+    height: 100px;
+    background-color:blue ;
+    position: relative;
+    left: 58px;
+    bottom: 45px;
+}
+
+.sbox3{
+    width: 100px;
+    height: 100px;
+    background-color:green ;
+      position: relative;
+    left: 120px;
+    bottom: 80px;
+}
